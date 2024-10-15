@@ -1,0 +1,355 @@
+sentences,label
+"sure , sonya . what 's the problem ? ",1
+"may i speak to you , mr. hall ?  | my photography classe 's meeting early today . can i leave at 4:30 ? ",1
+"do n't worry , we wo n't . the lecture starts at 9 o'clock . look at the clock . it 's only 8:40 . ",1
+"oh , no . i 'm afraid we 'll miss the beginning of the lecture .  | but our clock is 15 minutes slow . ",1
+"you think that was expensive ? linda , from my house to amherst , it cost twice as much as that . ",1
+it was $ 5.50 to downtown berkeley . that was too expensive for such a short distance . ,1
+"for about a year .  | well , i often practice my english with my neighbors who are from america . they live just next door to me . so it 's very convenient for me to practice my english with them . ",1
+"wow , your english is very good . how long have you been learning it ?  | just a year ? that 's unbelievable . ",1
+"well , last year in school i played on the football team . it kept me busy but i learned to manage my time . and also it has been a great experience in learning how to work on the team with other players . ",1
+"ok , tell me about yourself .  | how would your teachers describe you ? ",1
+"well , 600 had registered , but only 2/3 turned up . ",1
+how many students took the hsk test last month ? ,1
+"yes please . i 'm looking for a smartphone , but uhm ? i do n't know much about them .  | i see i 'm interested in this one .  | so i can check my email , can i ? ",1
+"can i help you ?  | right . well , with a smart phone you can use software , you know for your appointments , as an address book , that kind of thing you can take notes and write documents .  | this one ? it 's got all the features you 'd expect . a nice screen , wireless internet .  | yeah you can read and send email and surf the internet , too . as long as you 're in an area the internet can cover . ",1
+about seventy-five years . how about in your country ? ,1
+this newspaper talks about the problem of an aging population . what 's the average lifetime in your country ?  | about seventy . ,1
+do you have any direct flight to new zealand ? ,1
+"sorry , we do n't . but i think you can fly on northwest 212 to tokyo and they have a connecting flight on japan airline 123 to auckland , new zealand 's gateway city . and it is the most economical flight , just $ 580 . ",1
+"ok. here we are . so we drive to the a120 and turn left .  | oh yes . sorry . we need to drive only 7 miles to the m11 motor way and then we turn left to join the motorway and drive south .  | that 's another 15 miles so that 's 22 miles in total so far .  | then we continue driving on the m25 when it turns south . when we reach exit 15 , we turn left and drive along the m4 . then we take the first exit for heathrow airport . what 's the total distance ? ",1
+"ok , i 've got an up-to-date map . let 's check the route from here to the airport .  | no , we turn right . remember that we are coming from this direction .  | according to the map , we get off the m11 at the second intersection and joined the m25 . that 's the motor way that goes around the edge of london .  | then we drive west on the m25 . ",1
+what can i do for you ? we have many new introduced choose to choose from .  | ok. show me your receipt and you can change a larger size .  | here you are . is this perfect for him ?  | i see . here are the brown shoes with the right size .  | you need n't if you still choose shoes with the same brand . ,1
+"sorry i bought a pair of shoes with the size of 42 for my husband , but it 's a little tight for him .  | i have to change one pair with the size of 43 ?  | yes , and he would like brown rather than black to match his suit .  | thanks ! need i pay for extra money for the larger shoes ? ",1
+"speaking .  | sure . well it was 2 days ago on november the tenth about 11:00 pm . i decided to fry some chips so i used quite a lot of oil . i was deep frying . uhm the oil finally got hot enough , so i put the chips in and then my mom ringed .  | we started talking and i completely forgot about the chips . after the call . i just went back to my living room .  | yes , i watch tv for about 20 minutes and the next thing i knew there was the smell of smoke in someone was shouting fire fire . i immediately realized it was my chips . i rushed out of the room . the kitchen was next door . well , there were flames all over one wall .  | well , i grabbed some blankets from my bed and ran to the kitchen to throw them over the flames . by that time , my neighbors had already called the fire department . the firefighters arrived , i think within about 10 minutes and put the fire out very quickly .  | well . i 'll have to replace the cooker completely . besides , i have to have 2 kitchen units and one wall repaired . ",1
+hello is that phil taylor ?  | hi phil . i 'm a reporter for the sun . i 'm calling to ask you a few questions about the fire . can you tell me how it happened ?  | ah .  | oh no .  | what did you do ?  | so what was the damage . ,1
+"migrate went down recently , so i am very anxious .  | yeah , but i know you always do well in your studies . could you tell me how you do it ?  | well , now i think discussions are great . everybody can express his own opinion and learn from each other . meanwhile , they also help us build our confidence and have courage to express our opinions .  | yeah , that is a good method . but i just do n't like reading very much . maybe that 's why i 'm not doing very well in my studies . ",1
+"good morning . you do n't look very well . what 's the matter ?  | oh really ?  | in fact , i do n't think i have any special methods . i just like discussing things with my classmates .  | you 're right , but you could also be influenced by others in a bad way . you have to decide whether these kinds of discussions are suitable for you and whether they would be useful for your studies . i also like reading books . ",1
+"i have just arrived here too .  | you came here by bus ?  | ok , be seated please .  | i have to ask you for help but let 's have dinner first .  | ok here is the menu .  | what about the fried fish and steak ? ",1
+"hi **** sorry i 'm late .  | i plan to drive my car , but bob has to meet his mother at the airport .  | no , by taxi . but there was a jam on the way .  | thanks a lot , but why do you call me to meet here ?  | ok. i hear the dishes here are excellent .  | i 'm really hungry after the boring meeting .  | wonderful ! i like fish best . ",1
+so you 're the first woman they hired . ,1
+"yes , there are 10 men , 10 car salesman and me . ",1
+"hello madam , what can i do for you ?  | what size do you wear ?  | well , once you get to be in your twenties , your feet stop growing . so you 're probably still a 7 but let 's measure them just in case .  | well , it looks like you 're an eight . no wonder your feet have been hurting you . you 've been wearing shoes that are one size too small . ",1
+"my feet hurt . i think i need some new shoes .  | the last time i bought new shoes was about a year ago , and at that time i was a 7 .  | ok , so what does it say ? ",1
+"what would you like ? pizza , sandwich , hotdog , fried rice ? we do everything .  | ok. fried . ",1
+"takeaway fried rice sounds good .  | no . on second thought , i 'll have a tomato sandwich . ",2
+"well , mom . i 'm sorry to tell you that i left it on the bus . ",1
+"it 's raining again . tom , bring me the umbrella .  | again ? do n't you know that umbrella is expensive ? you always leave our umbrellas on the bus , do n't you ? ",1
+"i think we 're going to miss the train . must we go this slowly ?  | what does that mean ?  | mary , i think you 've missed the turn .  | does n't ellen always turn next to the school ? ",1
+"yes , we must . as they say , it 's better to be safe than sorry .  | it means we do n't want to have an accident .  | no , grandpa . there are still four or five blocks to go . then we have to turn right . ",1
+"i wanted to read this novel tonight , but there 's a free movie night in the student center . ",1
+"that 's funny . i wanted a quiet night into , but there is a free dinner for foreign students in the cafeteria . ",1
+"yeah , over the past 80 days . i 've been to many countries in africa . ",1
+"hi harry , it 's great to see you again . i heard you have been traveling a lot recently .  | i really envy you . did you ride a lion ? ",1
+what are your chances of getting the job ? ,1
+"brian , i just had an interview . they said they would make a decision soon .  | quite good . i think the interview went very well . ",1
+"what 's your hobby ? stamp collecting , reading , or something else ? ",1
+"no , nothing special . i often take pictures during holidays , but i 'm afraid i 'm a bad photographer . ",1
+"as you can see from the drawings . the kitchen has wander into the dining room , another into the family room and assert to the outside . ",1
+the door into the family room is n't big enough . could it be made wider ? ,1
+we ca n't wait all day .  | i 'll wait for a few more minutes but then i 'm leaving . ,1
+it 's only been half an hour . let 's just wait for another half hour . linda may come up soon . ,1
+the soup is delicious . i 'd love to be able to make it myself . ,2
+"why not ? you can get all the ingredients at any supermarket . here , let me get a pencil and paper . ",1
+"what would you like for dinner ? i think i 'll have a piece of apple pie with a cup of coffee .  | ok , look , here comes the waiter . ",1
+i 'd like a chicken sandwich and some french fries . ,1
+"yeah , over the past 80 days . i 've been to many countries in africa . ",1
+"hi harry , it 's great to see you again . i heard you have been traveling a lot recently . ",1
+i think we 're going to miss the train . must we go this slowly ?  | what does that mean ? ,1
+"yes , we must . as they say , it 's better to be safe than sorry .  | it means we do n't want to have an accident . ",1
+"mam , can you help me ? where is the nearest hospital ? i think my wife needs to see a doctor right away .  | thanks so much . ",1
+i am so sorry . i just moved here a few weeks ago . let me call 911 for you . ,1
+are you sure you 've corrected all the mistakes in the paper ? ,1
+perhaps i 'd better read it through again . ,1
+"alright , i will stay here for 3 days and will fly back the day after tomorrow .  | alright , i 'd also like to visit your factory to see your workshop .  | ok , no problem .  | yes , certainly . hopefully we 'll reach an agreement .  | that 's fine and i 'll leave in the afternoon .  | sounds perfect . thank you . ",1
+"let 's workout the schedule for your stay here , mister smith .  | so we 'll get down to business today . we 're going to visit the showroom this morning and you could find out about the product that you 're interested in .  | we 're planning so . how about this afternoon ?  | we 'll discuss our contract tomorrow .  | that 'll be great . the day after tomorrow i 'll take you on a tour of the city in the morning , so you could do some shopping .  | what do you think of the arrangements ? ",1
+"hello madam , what can i do for you ?  | what size do you wear ?  | well , once you get to be in your twenties , your feet stop growing . so you 're probably still a 7 but let 's measure them just in case .  | well , it looks like you 're an eight . no wonder your feet have been hurting you . you 've been wearing shoes that are one size too small . ",1
+"my feet hurt . i think i need some new shoes .  | the last time i bought new shoes was about a year ago , and at that time i was a 7 .  | ok , so what does it say ? ",1
+so you 're the first woman they hired .  | and how are you doing ?  | how did you do it ? did you do anything special ? ,1
+"yes , there are 10 men , 10 car salesman and me .  | this week i sold 3 cars . i was the top salesperson .  | no , not really . it helps that i 'm a woman . there are a lot of women looking at cars and buying cars by themselves . they feel more comfortable talking to a woman and you know , i like talking . ",1
+"i have just arrived here too .  | you came here by bus ?  | ok , be seated please .  | i have to ask you for help but let 's have dinner first .  | ok here is the menu . ",1
+"hi **** sorry i 'm late .  | i plan to drive my car , but bob has to meet his mother at the airport .  | no , by taxi . but there was a jam on the way .  | thanks a lot , but why do you call me to meet here ?  | ok. i hear the dishes here are excellent .  | i 'm really hungry after the boring meeting . ",1
+"speaking .  | sure . well it was 2 days ago on november the tenth about 11:00 pm . i decided to fry some chips so i used quite a lot of oil . i was deep frying . uhm the oil finally got hot enough , so i put the chips in and then my mom ringed .  | we started talking and i completely forgot about the chips . after the call . i just went back to my living room .  | yes , i watch tv for about 20 minutes and the next thing i knew there was the smell of smoke in someone was shouting fire fire . i immediately realized it was my chips . i rushed out of the room . the kitchen was next door . well , there were flames all over one wall .  | well , i grabbed some blankets from my bed and ran to the kitchen to throw them over the flames . by that time , my neighbors had already called the fire department . the firefighters arrived , i think within about 10 minutes and put the fire out very quickly . ",1
+hello is that phil taylor ?  | hi phil . i 'm a reporter for the sun . i 'm calling to ask you a few questions about the fire . can you tell me how it happened ?  | ah .  | oh no .  | what did you do ? ,1
+"migrate went down recently , so i am very anxious .  | yeah , but i know you always do well in your studies . could you tell me how you do it ?  | well , now i think discussions are great . everybody can express his own opinion and learn from each other . meanwhile , they also help us build our confidence and have courage to express our opinions . ",1
+"good morning . you do n't look very well . what 's the matter ?  | oh really ?  | in fact , i do n't think i have any special methods . i just like discussing things with my classmates . ",1
+ok. here we are . so we drive to the a120 and turn left .  | oh yes . sorry . we need to drive only 7 miles to the m11 motor way and then we turn left to join the motorway and drive south . ,1
+"ok , i 've got an up-to-date map . let 's check the route from here to the airport .  | no , we turn right . remember that we are coming from this direction . ",1
+what can i do for you ? we have many new introduced choose to choose from .  | ok. show me your receipt and you can change a larger size .  | here you are . is this perfect for him ? ,1
+"sorry i bought a pair of shoes with the size of 42 for my husband , but it 's a little tight for him .  | i have to change one pair with the size of 43 ?  | yes , and he would like brown rather than black to match his suit . ",1
+do you have any direct flight to new zealand ?  | when does the flight 212 leave ? ,1
+"sorry , we do n't . but i think you can fly on northwest 212 to tokyo and they have a connecting flight on japan airline 123 to auckland , new zealand 's gateway city . and it is the most economical flight , just $ 580 .  | at 11:30 am . by the way , it also makes a stop at chicago . ",1
+"about seventy-five years . how about in your country ?  | i heard that the government might need to increase the retirement age to sixty-seven , because otherwise there will not be enough workers to support the young and the elderly .  | but the cost for covering the health care of the elderly are expensive , so this policy is necessary . and we 're living longer . ",1
+"this newspaper talks about the problem of an aging population . what 's the average lifetime in your country ?  | about seventy .  | but in that case , people who actually , you know , move box or stand at checking point counter for a living , will have a difficult time getting a job .  | an increase in the retirement age will certainly have a bad effect on the lowest income part of the population . ",1
+"yes please . i 'm looking for a smartphone , but uhm ? i do n't know much about them . ",1
+"can i help you ?  | right . well , with a smart phone you can use software , you know for your appointments , as an address book , that kind of thing you can take notes and write documents . ",1
+"better still , let 's meet in the red lion bar to have a nice little talk . ",1
+"i 'll see you at the theater .  | good idea , and i 'd love to have a drink there . ",1
+"well , last year in school i played on the football team . it kept me busy but i learned to manage my time . and also it has been a great experience in learning how to work on the team with other players .  | my teachers would say i work hard to get my homework done on time and i 'm not afraid to ask for help if i need it . they 'd also tell you i am friendly to my classmates .  | i think i am the very person you can rely on . i 'll arrive to work on time and do the best i can on the job . besides i 've done volunteer work and now i 'd like the gain actual work experience . if you hire me , you 'll get someone who is always willing to learn . ",1
+"ok , tell me about yourself .  | how would your teachers describe you ?  | well , why should i hire you over the other 8 students ? ",1
+"i agree with you , but i 'm not sure if we can afford it right now , darling . ",1
+"i really like this necklace , jack . the diamond is beautiful . the design is fashionable and it represents our love . ",1
+"hi , sarah how is everything ?  | well , i was thinking about reading a book at home tonight . what exactly have you got in mind ?  | sorry , but i worked out in the gym this afternoon . i do n't feel like going for a walk tonight .  | sounds great . what time does it start ?  | sorry . but my mother will make chicken and potatoes tonight , which are my favorite . so i 'd rather eat at home and then go to the cinema .  | ok. see you then . ",1
+"nothing new here . i was just wondering if you want to go out tonight ?  | i thought we could just go for a walk . maybe down to the bridge .  | oh , then let 's go to the cinema . there is a new movie playing in theaters . how about going to see it ?  | at 8:20. what about having supper together before going to the movie ?  | ok , so let 's meet in front of the cinema 20 minutes before the movie begins . ok ? ",1
+"sure , sonya . what 's the problem ?  | is it important ?  | you have a lot of letters to type . can you come in early tomorrow morning and finish them ? ",1
+"may i speak to you , mr. hall ?  | my photography classe 's meeting early today . can i leave at 4:30 ?  | yes , it is . we 're getting our assignments and i have to be there on time .  | oh , sure . ",1
+"i 'm sorry , but i 'm a stranger here myself . ",1
+excuse me . can you tell me how i can get to the theater ?  | thank you all the same . i 'll ask the old lady over there . ,1
+"oh , i do n't do anything special . i do n't go out with friends or go to the cinema . i just read books at home . ",1
+what do you usually do on the weekend ? ,1
+"i 'd like to check in please .  | yes , the name is robert , robert brown .  | i will stay from monday to friday . ",1
+"do you have a reservation sir ?  | let me check the computer please . yes , here it is robert brown . how many nights will you be staying ? ",1
+can i help you madam ?  | beef is $ 2 a kilo and pork half that . ,1
+i want one kilo of beef and one kilo of pork . ,1
+"excuse me mam , can you tell me how to get to son college ? i 'm walking . ",1
+"well , i think the simplest way for you is to go up to main street over there , turn left on main street and keep going for about 20 minutes , when you get to water square turn right keep on past the mass hospital to the end of the road and then take a left turn you 'll be on rain avenue . walk 2 blocks until you see the farmers bank , cross the street and almost immediately take a left turn again . the entrance to son colleges is down 50 meters on your right . can you remember all that ? ",1
+you ca n't go wrong with a black dress . ,1
+today is my first day for work . i really need your advice about what i should wear . ,1
+"shh , you 're right . it 's time we decided what we 're going to do this year . well do you feel like inviting your sister and her family over , otherwise i 'd like to invite my brother and his family .  | good , that settled . why do n't you give your sister a call and see if they can come ?  | right . let 's get a nice , big one . so we 'll have plenty of leftovers to make sandwiches with . ",1
+"do you realize it 's november already before you know it ? thanksgiving will be here .  | i 'd love to invite my sister 's family . after all , they invited us last year .  | sure . say randy can you help me with the shopping ? we need to get a turkey . ",1
+"excuse me , could you please tell me how to get to the nearest supermarket ?  | thank you very much . ",1
+"go ahead and turn right at the second light . you ca n't miss it .  | that 's alright , have a good day . ",1
+"no , it 's scheduled for 9:00 in the morning . ",1
+"what time is tomorrow 's meeting ? is it at 8:30 ?  | good , that gives me an hour to prepare after getting to the office . ",1
+"oh ! hi diana , well actually i was thinking about taking an evening class .  | no . i want to learn a new language .  | no , i want to learn italian . ",1
+tim what are you thinking about ?  | do you want to learn a new skill ?  | so what language do you want to learn ? french ? ,1
+"the movie we saw tonight was exciting , was n't it ?  | i 'm sorry you were disappointed . ",1
+i do n't think so . the story was n't very interesting . ,1
+i am looking for a flat for 2 people near the university .  | i think of flat for no more than $ 100 a month is good . i prefer to live in a quiet street and i need at least 2 bedrooms . ,1
+good morning . what can i do for you ?  | well . there are several places available and the rent ranges from 80 to $ 150 a month . what are your requirements ? ,1
+"what kind of movies do you like amber ?  | well , i always like detective movies . ",2
+"for me i like to watch romantic comedies the most . you know girls always dreaming to be a princess and living with her prince charming happily ever after . and what about you mike ? what sort of movies do you like ?  | yeah , for me the fun of detective movies is that you can try to compete with the detective to see who will be faster to figure out who committed a serious crime , usually murder . ",1
+i do n't think our boy should be named scott . that is our dogs name . how does robert sound ? ,1
+"i like the names , scott and michael . ",1
+how about meeting at 5:40 ?  | that 's a bit late for me . i have to meet my son . i could manage 10 past . ,1
+"well , could we make it 6:20 ?  | it settled . see you then . ",1
+"hey maria , can i ask you some questions for a project i 'm doing for my mexican history class ? ",1
+"sorry tim , i 'm late from my physics lecture . i 've got to go . ",1
+"hi sue it 's me .  | what did you say ?  | i 'm sorry i did n't call you this morning . i 've had a cold since saturday . i have n't eaten much these days , it , it has made me feel really weak . but i 'll probably be there tomorrow . ",1
+"well hello , where have you been all day steve ? mister smith asked me this morning where you were , but he did n't seem to be looking for you or anything .  | i told him that i did n't know . he seemed very busy , as managers always are . are you ok ?  | alright we 'll go on a business trip next week and do n't worry . you should go see a doctor steve . ",1
+"yeah , good to see you too . have you been waiting here at the station long ?  | it was n't too bad , it was only 19 hours .  | well , it was a pretty uncomfortable right to be honest . the bus was starting to smell toward the end of it and there was a guy next to me , he was breathing really loudly while he was sleeping . but the reason i took the passwords because it 's more environmentally friendly than flying . ",1
+"hey welcome to berlin , it 's great to see you again .  | only 15 minutes , but let 's get out of this cold and go to my apartment . how are you feeling after that long bus ride ?  | that 's crazy . you could have flown here from london for 60 euros and it would have only taken an hour and a half . was it really worth all that time just to save a bit of money . ",2
+"where to , miss ?  | on the westside ? ",1
+"please drop me off at the kings department store .  | no , the east side , near the post office . ",1
+"i 've been invited to a dinner party tomorrow . what time should i arrive for that ?  | why ?  | i never thought of that . but what the dinner get cold if people come several minutes late ?  | what are they get caught in a traffic jam , or the subways late or something else happens ? and i 'm going to be really late .  | oh , i see . ",1
+"on time , or even a few minutes late , but not early .  | because the host and hostess are running around finishing last minute chores .  | no . generally it 's planned so that when you arrive you get a drink and then chat with people for a while . when all the guests have arrived and finish their drinks , you sit down to dinner or go to the buffet table .  | you must call and say you 're coming , but you 'll be late . ",1
+"here with us is marsha ward , author of save your child , which has been sold over 10,000 copies in britain . welcome , marsha . is there a lot to child safety in the home ?  | really , i had no idea that the number was that high . ",2
+"definitely . did you know that more than a million children in britain every year require hospital treatment for accidents that happen in the home ?  | yes . and almost all of those accidents could have been prevented . parents can prevent children from falling down the stairs by fitting safety gates . they can use mats to prevent children sleeping on floors , especially in the bathroom . however , children should never be left alone in the bath . ",1
+"i do , it 's a nice place to go on a saturday afternoon . they even have a large outdoor garden in the back . this is such a peaceful place . ",1
+"what a beautiful painting this is ! you just love art museums , do n't you ? ",1
+"now college graduates are being encouraged to start their own business . it sounds really good for us . we can get some valuable social experience , which will be helpful in our future jobs . we may also learn about ourselves and society . ",1
+"it 's difficult to find a suitable job this year . it 's a lot of pressure .  | yes , but it 's not as easy as you imagine . there are a lot of problems . the main difficulty is money and our education does n't provide enough knowledge on how to do it . ",1
+do i have to ? i 'm a great driver with fifteen years of driving experience .  | i 've never had a serious accident . ,2
+"do you wear a seatbelt every time you drive or ride in a car ?  | the chances of being injured in a car accident this year are one in seventy-five . i think that 's worth thinking about seriously .  | my brother was not as lucky as you . last december , he was almost killed in an accident . he was n't wearing a seatbelt . ",2
+for what ?  | first prize ! congratulations !  | what time shall we go there ?  | alright . i will drive over there . ,1
+"let 's go to mcdonald 's this evening . i 'll treat you to dinner .  | good news ! i won first prize in the singing competition .  | so i have invited some friends to share my happiness .  | now , it 's 5:30. let 's go in an hour ok ? ",1
+"i have just arrived here too .  | you came here by bus ?  | ok , be seated please .  | i have to ask you for help but let 's have dinner first .  | ok here is the menu .  | what about the fried fish and steak ?  | would you like a cup of tea or coffee . ",1
+"hi **** sorry i 'm late .  | i plan to drive my car , but bob has to meet his mother at the airport .  | no , by taxi . but there was a jam on the way .  | thanks a lot , but why do you call me to meet here ?  | ok. i hear the dishes here are excellent .  | i 'm really hungry after the boring meeting .  | wonderful ! i like fish best .  | thanks . but i would like some orange juice . ",1
+"good morning . thank you .  | that 's right .  | yes , madam , if i can .  | well , i have a sister in college now and there will be another one next year . so i have to make a little money for us .  | physics . i really enjoy it .  | oh , sure . my parents said i should decide it myself . ",2
+"good morning . have a seat .  | i have your letter here . your name is robert martin , right ?  | and you hope to work here next month ?  | fine . you finished high school a year ago . why did n't you go to college that year ?  | good . it seems that you are a good young man . by the way , what 's your best lesson in high school ?  | that 's fine . have you discussed this with your parents ? ",2
+"hi anna . welcome back . how was your trip to the united states ?  | what a pity . actually i 'm going on a trip there myself next week .  | oh , i read about that in a magazine . you say it works ? ",1
+"very busy . i had a lot of meetings and met the business partners , so of course i did n't have much time to see new york .  | really ? then take my advice . do the well being in the air program . it really works . ",1
+"can i help you madam ?  | last week ? what were they like ?  | that 's strange . i do n't recognize any of the ones we had from that description .  | i 'm afraid the sales are over now madam .  | oh well madam , as you know , we were just closing . and perhaps madam , if you come tomorrow , i could show you everything we have in our range of kitchenware . and there are still one or 2 things on sale . ",1
+"yes , it is about some pots you had in your window last week .  | dark brown color , country style and a sort of flower pattern .  | oh , you must know the ones i mean , they were on sale are real bargain reduced to 1/4 of the original price . i could n't believe my eyes when i saw them so i came here again .  | but my neighbor , mrs cliff told me she saw some here only yesterday .  | oh look that one there . that 's the sort of thing i was looking for . ",1
+"well , that 's great that you have happy experiences of teaching in indonesia and following up on what you just mentioned . what would you recommend for students who do not live in an english speaking country ? i do n't know about perfecting but they want at least to be able to communicate decently . how can they go about this ?  | and reading also right ? ",1
+"yeah , it is really hard that is the real struggle because right now i do live in holland . but i really do n't socialize much with dutch people and my boyfriend 's english is so good that we just basically speak english all the time . so i have to make a real effort to practice . there is n't as much listening exposure as i want , all i have to do is turn on the tv .  | yeah , reading . there was plenty i can get to read and listen to . god for a speaking there really is no substitute for trying to speak and use the language in a relaxed atmosphere . o i think that is really the challenge for people who live in a country where their target language is n't spoken and for that . gosh , what would i do . if i did n't have people here , probably try to find a club in sweden . they have a really cool system called study circles where it 's not it 's like a course but really you just have a course leader who is there sort of . as a coaching guide and to help out and you do n't get grades and you go just because you want to learn . ",1
+"what do you like doing in your free time , ann ?  | what else do you like doing ?  | do you play any musical instruments like the piano ?  | well . i am crazy about sports , especially basketball , so i spend every minute i can either playing with others or training . ",1
+"well , reading is my favorite thing to do .  | listening to music .  | no , i do n't play the piano but i play the guitar sometimes , i spend a lot of my free time practicing . what about you , john ? ",1
+"absolutely , it 's lovely .  | i am planning to lie on the beach and enjoy the sunshine . and you ? ",1
+do n't you love sunny days like today ?  | what are you going to do in this beautiful weather ?  | my husband and i may go fishing . ,1
+"sure , sonia . what is the problem ?  | is it important ?  | you have a lot of letters to type today . they must be finished by 11:30 tomorrow morning . can you come early tomorrow morning and finish them ? if you can finish them on time , you can leave early this afternoon . ",1
+"may i speak to you , mister hall ?  | i have to attend my photography class today . can i leave at 4:30 ?  | yes , it is . i have to be there on time . ",1
+"you do fine . i 'll take you out to dinner afterwards , so you have something to look forward to . ",1
+i have a job interview on tuesday and you really worried . i 'm not very good at answering a lot of questions . ,1
+are you alright ? you do n't look well .  | how about a hot drink ? ,1
+uh.i 'm sure i 'm ok. really just not very warm . ,1
+i wrote this song last night . i 've been feeling very creative lately .  | i was just thinking about these last night and how they buzz around the flowers . i had to pick up my guitar and start composing . ,1
+it was interesting . i 've never heard a song about bees before .  | i bet you have a lot of other songs . ,1
+"yes , but he backed out at the last minute . ",1
+wooden steve supposed to take part in this new drama ? ,1
+"hi , penny . i 'm going to new york university as an exchange student for the next term . what kind of accommodation do you suggest , homestay or shared apartments ? ",1
+"well , staying with local families will certainly give you a better language environment , but you can have more privacy if you live in an apartment . if i were you i would choose the former . ",1
+"yes , please . it 's delicious . did you cook it yourself ? ",2
+would you like another piece of fried chicken ? ,1
+"do you have all the books we need for class yet , mary ?  | i ca n't today . i have a dentist appointment , but let 's go tomorrow . ",1
+no . i still have 2 more to buy . would you like to go to the bookstore with me ? either today after class or tomorrow ? ,1
+"celia , you see those girls over there ? they need another player for a basketball game . would you like to join them ?  | no problem . i 'll find another volleyball player for them . m : great ! thanks for inviting me to watch this volleyball game . ",1
+"it seems like that it 's a game for fun . sure , i 'll be there in a minute .  | thanks for playing volleyball with them . and i know volleyball is your favorite sport . ",1
+"well , to be honest with you , i 've never been a fan of chocolate . ",2
+hmm ... are you going to try some of this chocolate pudding ? it 's incredible . ,2
+i know . and he has been doing nothing else ever since . ,1
+"robert worked as a secretary for 3 years . then he became a reporter . after that , he started writing novels full time . ",1
+"i wrote this song last night . i 've been feeling very creative lately .  | i was just thinking about these last night and how they buzz around the flowers . i had to pick up my guitar and start composing .  | oh yeah , i wrote one about the ocean the other day . and i have others about socks , my mom , picking apples and tons of other things . i think i 'm going to put them all on an album .  | maybe i will get really famous and go on tour . want to be in my band ? ",1
+"it was interesting . i 've never heard a song about bees before .  | i bet you have a lot of other songs .  | good idea .  | well , my style is really different from yours . your songs are so happy and light . ",1
+"good evening , ma'am . do you have a reservation ?  | awfully sorry , but there are no empty tables left now .  | about 15 minutes i think . is that ok for you ? ",2
+"no , i do n't .  | well , can you tell me how long a wait do you think there will be ? ",1
+i 'm not sure . but it sounds like you need a new one . ,1
+my television has strange line sound the screen all the time . what do you think could be wrong with it ? ,1
+how was your trip ? ,1
+"great . i went all over the world . i started out in germany and then made my way to spain and france . after europe , i went to egypt and turkey , then over to india and china . from china , i traveled to thailand and indonesia . then spent some time in australia . i was planning on going to south america , but i ran out of money . ",2
+"what do you like doing in your free time , ann ?  | what else do you like doing ?  | do you play any musical instruments like the piano ? ",1
+"well , reading is my favorite thing to do .  | listening to music .  | no , i do n't play the piano but i play the guitar sometimes , i spend a lot of my free time practicing . what about you , john ? ",1
+"well , that 's great that you have happy experiences of teaching in indonesia and following up on what you just mentioned . what would you recommend for students who do not live in an english speaking country ? i do n't know about perfecting but they want at least to be able to communicate decently . how can they go about this ?  | and reading also right ? ",1
+"yeah , it is really hard that is the real struggle because right now i do live in holland . but i really do n't socialize much with dutch people and my boyfriend 's english is so good that we just basically speak english all the time . so i have to make a real effort to practice . there is n't as much listening exposure as i want , all i have to do is turn on the tv .  | yeah , reading . there was plenty i can get to read and listen to . god for a speaking there really is no substitute for trying to speak and use the language in a relaxed atmosphere . o i think that is really the challenge for people who live in a country where their target language is n't spoken and for that . gosh , what would i do . if i did n't have people here , probably try to find a club in sweden . they have a really cool system called study circles where it 's not it 's like a course but really you just have a course leader who is there sort of . as a coaching guide and to help out and you do n't get grades and you go just because you want to learn . ",1
+"hi anna . welcome back . how was your trip to the united states ?  | what a pity . actually i 'm going on a trip there myself next week .  | oh , i read about that in a magazine . you say it works ?  | you 're choking .  | huh . so what did you do ? ",1
+"very busy . i had a lot of meetings and met the business partners , so of course i did n't have much time to see new york .  | really ? then take my advice . do the well being in the air program . it really works .  | yes , i did the program on my flight to the states and when i arrived in new york , i felt fresh and energetic . on the way back , i did n't do it and i felt terrible .  | not at all . it really meant a world of difference .  | well , i did n't drink any alcohol or coffee and i did n't eat any meat or rich food . i drank a lot of water and fresh tooth and i ate the noodles on the special well being menu . they 're lighter and they contain fish and vegetables . and i did some of the exercises that the program recommends like walking around the plane and stretching . ",1
+i heard you into town yesterday .  | how did it go ? ,1
+"oh yes , i had a meeting with the bank manager . my husband and i have decided to buy a new house , so we need a loan from the bank . ",1
+fatness can bring more trouble for people . ,1
+"the who reports about 1 . 6 billion adults were overweight . of which at least 400 million were too fat .  | what 's worse , men who were overweight at the age of 18 had nearly 50 % less chance of being married by their 30s and 40s . ",1
+"good morning . thank you .  | that 's right .  | yes , madam , if i can .  | well , i have a sister in college now and there will be another one next year . so i have to make a little money for us . ",2
+"good morning . have a seat .  | i have your letter here . your name is robert martin , right ?  | and you hope to work here next month ?  | fine . you finished high school a year ago . why did n't you go to college that year ? ",2
+for what ?  | first prize ! congratulations !  | what time shall we go there ?  | alright . i will drive over there . ,1
+"let 's go to mcdonald 's this evening . i 'll treat you to dinner .  | good news ! i won first prize in the singing competition .  | so i have invited some friends to share my happiness .  | now , it 's 5:30. let 's go in an hour ok ? ",1
+do i have to ? i 'm a great driver with fifteen years of driving experience .  | i 've never had a serious accident . ,2
+do you wear a seatbelt every time you drive or ride in a car ?  | the chances of being injured in a car accident this year are one in seventy-five . i think that 's worth thinking about seriously . ,2
+"now college graduates are being encouraged to start their own business . it sounds really good for us . we can get some valuable social experience , which will be helpful in our future jobs . we may also learn about ourselves and society . ",1
+it 's difficult to find a suitable job this year . it 's a lot of pressure . ,1
+"here with us is marsha ward , author of save your child , which has been sold over 10,000 copies in britain . welcome , marsha . is there a lot to child safety in the home ?  | really , i had no idea that the number was that high .  | is the bathroom the most dangerous room in the house ? ",2
+"definitely . did you know that more than a million children in britain every year require hospital treatment for accidents that happen in the home ?  | yes . and almost all of those accidents could have been prevented . parents can prevent children from falling down the stairs by fitting safety gates . they can use mats to prevent children sleeping on floors , especially in the bathroom . however , children should never be left alone in the bath .  | no , the most dangerous room by far is the kitchen . ",1
+i want to withdraw $ 100 from my account and make a bank check . ,1
+that is fine . may i have your card and pays name ? by the way $ 5 would be charged for the bank check fee . ,1
+"of course not , it 's really hot in the room , open the window to let in more fresh air . ",1
+would you mind if i opened the window ? ,1
+"wow , i ca n't catch my breath . you 're running too fast , honey .  | yes , but you need to slow down . this is jogging , not racing .  | but running so fast is not good for people over 40 . ",1
+come on . you left behind .  | you just need more exercise .  | i do n't care . i want to burn up my fat . ,1
+"yeah , good to see you too . have you been waiting here at the station long ?  | it was n't too bad , it was only 19 hours .  | well , it was a pretty uncomfortable right to be honest . the bus was starting to smell toward the end of it and there was a guy next to me , he was breathing really loudly while he was sleeping . but the reason i took the passwords because it 's more environmentally friendly than flying . ",1
+"hey welcome to berlin , it 's great to see you again .  | only 15 minutes , but let 's get out of this cold and go to my apartment . how are you feeling after that long bus ride ?  | that 's crazy . you could have flown here from london for 60 euros and it would have only taken an hour and a half . was it really worth all that time just to save a bit of money .  | i think it 's great that you want to help the environment , but you look so exhausted right now . i just think you should be a little more careful with your health . ",2
+"hi sue it 's me .  | what did you say ?  | i 'm sorry i did n't call you this morning . i 've had a cold since saturday . i have n't eaten much these days , it , it has made me feel really weak . but i 'll probably be there tomorrow .  | thanks , but i 'm getting better now . ",1
+"well hello , where have you been all day steve ? mister smith asked me this morning where you were , but he did n't seem to be looking for you or anything .  | i told him that i did n't know . he seemed very busy , as managers always are . are you ok ?  | alright we 'll go on a business trip next week and do n't worry . you should go see a doctor steve . ",1
+are you doing anything tomorrow morning ? i 'm wondering if you 'd like to come to my office to discuss the new project .  | then i 'll see you in the afternoon . ,1
+tomorrow morning ? what about tomorrow afternoon ? ,1
+"jane , who are you going on holiday with this summer ? ",1
+"my aunt . she is coming home from america . i 've already booked 2 first class tickets to korea , but my aunt wanted to go to japan . ",1
+"you are late again , maria . the teacher is about to come . ",1
+i know . i have to prepare the supper for the whole family before i leave . ,1
+"hi nancy , i work very hard , i get results . i do much more than i really should and nobody notices anyway , i did n't get the promotion this time .  | you know , i get nervous even before entering his office .  | well . i just ca n't .  | ok , i 'll try . ",1
+"what is it frank ? you look upset .  | frank i think you need talk with the boss . at least ask for a pay rise or something .  | there is no need to be afraid when you claim something you deserve . i know better than anyone else of how good an employee you are . if it was n't for you getting that $ 2,000,000 deal last month , we would all be at home looking for new jobs now . you need to let the boss see that too .  | how about this ? next week i will invite all the colleagues to my birthday party . our boss will be there , too . maybe you can talk to him then . you know in a much easier environment . ",1
+"how about this skirt , it goes well with your skin .  | of course .  | that would be good and i believe this necklace would make you look just perfect . hurry up , grandma is waiting for us . ",1
+"hi i 'm looking for a dress for jane 's party this evening . can you give me some advice ?  | really ? ok , i 'll wear it to the party . do you think i should take a handbag with me to the party ?  | how about the brown bag you and i bought last week ? ",1
+"$ 10 for the nand out , students go half price . ",1
+excuse me how much are the tickets please ?  | two student tickets and adult one please . ,1
+"excuse me mam , can you tell me how to get to son college ? i 'm walking .  | i guess i got a little lost in the middle . we are at park road now , are n't we ?  | ok thanks a lot . ",1
+"well , i think the simplest way for you is to go up to main street over there , turn left on main street and keep going for about 20 minutes , when you get to water square turn right keep on past the mass hospital to the end of the road and then take a left turn you 'll be on rain avenue . walk 2 blocks until you see the farmers bank , cross the street and almost immediately take a left turn again . the entrance to son colleges is down 50 meters on your right . can you remember all that ?  | yes , turn left at the lights you will be on main street . well , perhaps the best thing for you is to find your way to the mass hospital and ask again . ",1
+hello . ,1
+"hi , this is kate . can i just talk to you about our plans for the summer conference ? i said that i was going to be away for the opening meeting and could n't give you a hand but it seems i will actually be around . so what would you like me to do ? ",1
+"what a nice day ! when i got off the plane this afternoon , i could feel that the air here is very fresh . ",2
+"yes , it rained yesterday , but it clears up today . the weather is welcoming you . ",2
+i am looking for a flat for 2 people near the university .  | i think of flat for no more than $ 100 a month is good . i prefer to live in a quiet street and i need at least 2 bedrooms . ,1
+good morning . what can i do for you ?  | well . there are several places available and the rent ranges from 80 to $ 150 a month . what are your requirements ? ,1
+what will you do for the holiday ? i 've got papers to write so i probably will just focus on those .  | i have been busy with basketball team practice . ,1
+how come you have n't finished those yet ? i 've done mine . ,1
+"oh ! hi diana , well actually i was thinking about taking an evening class .  | no . i want to learn a new language .  | no , i want to learn italian .  | no , i 'm just interested in the language . do you have any interest in learning a new language ? if you do we could go to evening school together . ",1
+tim what are you thinking about ?  | do you want to learn a new skill ?  | so what language do you want to learn ? french ?  | do you want to work in italy one day ? ,1
+"well , i stopped immediately when the light turned yellow , but this man ran into me from behind . ",1
+"now , please tell me exactly when where and how this happened . ",1
+"well , here we are . let me get the door for you .  | this is a great restaurant . you can get anything you want here . ",1
+why on earth did you bring me here ?  | anything except good service . ,2
+take 2 big pills and three small ones every 6 hours . ,1
+how often shall i take these pills and how many should i take ? ,1
+"yeah , good to see you too . have you been waiting here at the station long ?  | it was n't too bad , it was only 19 hours . ",1
+"hey welcome to berlin , it 's great to see you again .  | only 15 minutes , but let 's get out of this cold and go to my apartment . how are you feeling after that long bus ride ? ",2
+are you still learning chinese ?  | it is the same with me . i can read chinese now . but i still find it difficult to speak chinese and i do n't always understand people when they speak chinese to me . ,1
+"yes . but i do n't have enough time for it . i have so many other things to do every day .  | we do n't hear chinese enough , i think . do you listen to the radio from china ? ",1
+hi sue it 's me . ,1
+"well hello , where have you been all day steve ? mister smith asked me this morning where you were , but he did n't seem to be looking for you or anything . ",1
+"what 's your plan for the summer holiday ?  | sounds great , i want to go to the mountains , but i have too much work to do . ",1
+i 'm thinking of going to qingdao to visit my friend lily . ,1
+"here with us is marsha ward , author of save your child , which has been sold over 10,000 copies in britain . welcome , marsha . is there a lot to child safety in the home ? ",2
+definitely . did you know that more than a million children in britain every year require hospital treatment for accidents that happen in the home ? ,1
+i 've been invited to a dinner party tomorrow . what time should i arrive for that ?  | why ?  | i never thought of that . but what the dinner get cold if people come several minutes late ? ,1
+"on time , or even a few minutes late , but not early .  | because the host and hostess are running around finishing last minute chores . ",1
+"i 'm a bit busy right now . we 've got guests coming for the weekend and the house is so untidy . maggie , you know , i hate housework . ",1
+"hi , mark , how is everything ? ",1
+"ca n't complain . i 'm busy with my experiments in the lab , but after work i often play some sports .  | like tennis , running and golf .  | i usually play about once a month . what about you , alice ? ",1
+"hi , mark . have n't seen you for ages . how are you doing ?  | like what ?  | golf ? that 's my favorite game . how often do you play it , mike ?  | i play every sunday . ",1
+"now college graduates are being encouraged to start their own business . it sounds really good for us . we can get some valuable social experience , which will be helpful in our future jobs . we may also learn about ourselves and society .  | maybe you are right . but our government allows college graduates to borrow money from banks and maybe some can get money from their parents . ",1
+"it 's difficult to find a suitable job this year . it 's a lot of pressure .  | yes , but it 's not as easy as you imagine . there are a lot of problems . the main difficulty is money and our education does n't provide enough knowledge on how to do it . ",1
+"lucy , how was your first day of school ?  | what classes did you have ?  | what do you think about the teachers ?  | that 's too bad . how is your english teacher ?  | where is she from ?  | what about your art teacher ?  | she sounds like a good teacher . ",1
+"it was great , dad .  | well , i had english from 9:00 o'clock to 11:00 o'clock , art from 12:00 o'clock to 2:00 o'clock and math from 2:30 to 4:30 .  | they are all good teachers . i do n't like my maths teacher , though he is very famous in america . he seems like an old person .  | she is my favorite . in today 's class , she gave us a lecture on how to be a good student .  | she said that she 's from a small town in the middle of england .  | she is very pretty and kind . she told us she was from canada . her class was interesting . ",2
+"how can i help you miss brey ?  | sorry , but order number s35f6 sold out 3 days ago . we will have more available in a week if you would like to wait that long . ",1
+"first , i 'd like to order 40 sweaters , order number s35f6 .  | yes , i can wait for a week . it 's still quite cold now . i just like to be sure that i can get them within 2 weeks . ",1
+hi anna . welcome back . how was your trip to the united states ? ,1
+"very busy . i had a lot of meetings and met the business partners , so of course i did n't have much time to see new york . ",1
+your purse ? no . perhaps you 've left it in the car . i saw you caring it when we left for the theater this afternoon .  | but why are you looking for your purse ? are you going out ?  | yes . could you get me a black pair of gloves please ? ,1
+"did you see my purse honey ? i 've been looking for it in my office , but i can not find it .  | you 're right . it must be there . i 'll go and get it .  | yes , my friend linda just called . she wants to go shopping for sportswear and she wants someone to go with her and i need a pair of hiking boots . we 'll go hiking this weekend . do you need anything ? ",1
+fatness can bring more trouble for people .  | you mean women list a man 's appearance first ? ,1
+"the who reports about 1 . 6 billion adults were overweight . of which at least 400 million were too fat .  | what 's worse , men who were overweight at the age of 18 had nearly 50 % less chance of being married by their 30s and 40s .  | sure ! 500,000 swedish men born between 1951 and 1961 were surveyed . ",1
+"yeah , over the past 80 days . i 've been to many countries in africa .  | what ?  | well i did n't ride a lion , but one time a mother elephant ran after me . and it was fun .  | no , i 'm just kidding .  | well . i really miss the comforts of home . now i just want to take a break . a long break . ",1
+"hi harry , it 's great to see you again . i heard you have been traveling a lot recently .  | i really envy you . did you ride a lion ?  | i 'm just kidding .  | are you serious ?  | you really frightened me . ",1
+"well , that 's great that you have happy experiences of teaching in indonesia and following up on what you just mentioned . what would you recommend for students who do not live in an english speaking country ? i do n't know about perfecting but they want at least to be able to communicate decently . how can they go about this ? ",1
+"yeah , it is really hard that is the real struggle because right now i do live in holland . but i really do n't socialize much with dutch people and my boyfriend 's english is so good that we just basically speak english all the time . so i have to make a real effort to practice . there is n't as much listening exposure as i want , all i have to do is turn on the tv . ",1
+where is that music coming from ?  | the sound quality is great . are they connected to your computer ? ,1
+my new speakers . i hung them up on the wall over there . there 's so small you can barely see them .  | no . they are connected to my iphone actually . ,1
+"i 've been wondering how to start running . i want to run a marathon and i know you 're a good runner .  | ok , do you think i should run on a running machine at the gym or outside ?  | maybe i 'll try running outside first and see how it feels . ",2
+"well , you need to start out slowly . see if you can run a mile without stopping and then start increasing your distance .  | well , it depends on what you like . running inside is nice , because you can stay at a steady speed . but outside is nice too , because you 're surrounded by nature and fresh air . ",1
+"hey , you look really different today . what happened ? ",1
+"my friend steve gave me a new haircut . he could be a barber , do n't you think ? ",1
+"if you go by bus , it 's only $ 30 . but if you go by train , it 's almost twice that much . ",1
+can you tell me the least expensive way to get to california ? ,1
+"hi , jenny , you look great today . ",2
+"thanks . you know , i 'm having a birthday party this weekend . ",1
+"yes , it 's the fourth house on the left . ",1
+"excuse me , do you know where dr joyce 's law firm located ?  | thank you . ",1
+i think michael has been going to job interviews instead of going to class this week . ,1
+i do n't know about that i think he 's been really sick . ,1
+not yet . i 'm still in a lot of pain . please give me some more medicine . ,1
+is your stomach all right now ?  | it 's not necessary . you should rest more . ,1
+"um , a cup of coffee and just one bottle of coke for the kids . ",1
+"i 'd like a cup of black tea . what about you ?  | fruit juice is much better for them , but they often refuse it . ",1
+i 'm so excited that i could n't fall asleep the whole night . ,1
+"i 'd be excited too if i had my passport , visa and air ticket . i envy you . ",1
+"good evening , ma'am . do you have a reservation ?  | awfully sorry , but there are no empty tables left now .  | about 15 minutes i think . is that ok for you ?  | i am sorry , ma'am .  | well , i 'll check again for you .  | i am so sorry for my mistake . there is a table available in the smoking section . ",2
+"no , i do n't .  | well , can you tell me how long a wait do you think there will be ?  | 15 minutes ? that 's too bad . i ca n't wait for so long .  | are you sure there are n't any empty tables at all ? can you please just check for me ?  | ok , i will wait for a moment . ",1
+i 've been wondering how to start running . i want to run a marathon and i know you 're a good runner . ,2
+"well , you need to start out slowly . see if you can run a mile without stopping and then start increasing your distance . ",1
+i ca n't wait to see the look on jack 's face when he sees his great . ,2
+neither can i . ,1
+about once a week ? what about you ? ,1
+you play really well . how often do you play tennis ?  | me ? just 3 or 4 times a year . ,1
+"well , that 's great that you have happy experiences of teaching in indonesia and following up on what you just mentioned . what would you recommend for students who do not live in an english speaking country ? i do n't know about perfecting but they want at least to be able to communicate decently . how can they go about this ?  | and reading also right ? ",1
+"yeah , it is really hard that is the real struggle because right now i do live in holland . but i really do n't socialize much with dutch people and my boyfriend 's english is so good that we just basically speak english all the time . so i have to make a real effort to practice . there is n't as much listening exposure as i want , all i have to do is turn on the tv .  | yeah , reading . there was plenty i can get to read and listen to . god for a speaking there really is no substitute for trying to speak and use the language in a relaxed atmosphere . o i think that is really the challenge for people who live in a country where their target language is n't spoken and for that . gosh , what would i do . if i did n't have people here , probably try to find a club in sweden . they have a really cool system called study circles where it 's not it 's like a course but really you just have a course leader who is there sort of . as a coaching guide and to help out and you do n't get grades and you go just because you want to learn . ",1
+"what do you like doing in your free time , ann ?  | what else do you like doing ? ",1
+"well , reading is my favorite thing to do .  | listening to music . ",1
+"ok. here we are . so we drive to the a120 and turn left .  | oh yes . sorry . we need to drive only 7 miles to the m11 motor way and then we turn left to join the motorway and drive south .  | that 's another 15 miles so that 's 22 miles in total so far .  | then we continue driving on the m25 when it turns south . when we reach exit 15 , we turn left and drive along the m4 . then we take the first exit for heathrow airport . what 's the total distance ? ",1
+"ok , i 've got an up-to-date map . let 's check the route from here to the airport .  | no , we turn right . remember that we are coming from this direction .  | according to the map , we get off the m11 at the second intersection and joined the m25 . that 's the motor way that goes around the edge of london .  | then we drive west on the m25 .  | the journey along the m25 is 33 miles and then it 's 3 extra miles from there to get to the airport . ",1
+fatness can bring more trouble for people .  | you mean women list a man 's appearance first ? ,1
+"the who reports about 1 . 6 billion adults were overweight . of which at least 400 million were too fat .  | what 's worse , men who were overweight at the age of 18 had nearly 50 % less chance of being married by their 30s and 40s .  | sure ! 500,000 swedish men born between 1951 and 1961 were surveyed . ",1
+i heard you into town yesterday .  | how did it go ?  | that was rude . you must have been very angry .  | what did that driver do ? ,1
+"oh yes , i had a meeting with the bank manager . my husband and i have decided to buy a new house , so we need a loan from the bank .  | the meeting went well , but getting there was not so pleasant . i found a parking space just outside the bank . but just as i started backing into the space , another car drove into it .  | yes , i open my window and shouted at the other driver .  | he just ignored me and walked away . it took me 20 minutes to find another place . ",1
+"i like to book a few seats for hamlet , please .  | have you got any seats downstairs ?  | how much are they ?  | are there any seats for $ 2.5 ?  | 4 please .  | what about saturday october twenty first ? ",1
+"yes , sir .  | yes , we have .  | $ 3.75 each .  | yes , there are . upstairs . how many ?  | for which night ?  | i can give you 4 seats in row 8 . ",1
+"lucy , how was your first day of school ?  | what classes did you have ?  | what do you think about the teachers ?  | that 's too bad . how is your english teacher ? ",1
+"it was great , dad .  | well , i had english from 9:00 o'clock to 11:00 o'clock , art from 12:00 o'clock to 2:00 o'clock and math from 2:30 to 4:30 .  | they are all good teachers . i do n't like my math teacher , though he is very famous in america . he seems like an old person .  | she is my favorite . in today 's class , she gave us a lecture on how to be a good student . ",2
+"now college graduates are being encouraged to start their own business . it sounds really good for us . we can get some valuable social experience , which will be helpful in our future jobs . we may also learn about ourselves and society .  | maybe you are right . but our government allows college graduates to borrow money from banks and maybe some can get money from their parents .  | but i have made up my mind to start my own business . how about you ? ",1
+"it 's difficult to find a suitable job this year . it 's a lot of pressure .  | yes , but it 's not as easy as you imagine . there are a lot of problems . the main difficulty is money and our education does n't provide enough knowledge on how to do it .  | but you have to pay back the money sooner or later . so most college graduates prefer to apply for a job rather than start their own business .  | well , it always takes time to consider before making a decision . ",1
+"ca n't complain . i 'm busy with my experiments in the lab , but after work i often play some sports .  | like tennis , running and golf .  | i usually play about once a month . what about you , alice ?  | where do you go ?  | yes , i was there once . you 're going to play next sunday , i suppose . ",1
+"hi , mark . have n't seen you for ages . how are you doing ?  | like what ?  | golf ? that 's my favorite game . how often do you play it , mike ?  | i play every sunday .  | the country club . do you know it ?  | certainly . listen , why do n't you come with me ? ",1
+"yes , there is still a one bedroom-apartment left . do you want to rent it ?  | yes , but you need to pay $ 60.00 a week and the rent is just $ 200 a month .  | sure , the apartment is just a 5 minute walk away from here . now i 'll show you to it . ",1
+"excuse me , sir . do you still have an apartment left ?  | yes , but do you rent rooms by the week ? i only want to rent the apartment for 2 weeks . i 'm not staying here for long .  | that 's fine with me . can i move in today ? ",1
+"you are late again , miss smith . do n't you have a watch or something ? ",1
+"yes , i thought that i had set the alarm clock for 7:00 o'clock , but it rang an hour later . ",1
+"your watch is really nice . i got my wife the same one for her birthday last year , it cost me $ 1000 . ",1
+"you spent $ 1000 ? wow , i have a friend who works at a jewelry store , so i paid $ 200 less . ",1
+"for about a year .  | well , i often practice my english with my neighbors who are from america . they live just next door to me . so it 's very convenient for me to practice my english with them .  | i ca n't agree more . i have got a friend who started learning english about 5 years ago . but he still can not speak english well . he does n't have anyone to practice with . now , he sometimes chats with me online and practices with me . he 's making great progress . oh , my bus is coming . bye . ",1
+"wow , your english is very good . how long have you been learning it ?  | just a year ? that 's unbelievable .  | you are really lucky . practicing is very important , especially when you 're learning a new language . ",1
+"well , last year in school i played on the football team . it kept me busy but i learned to manage my time . and also it has been a great experience in learning how to work on the team with other players .  | my teachers would say i work hard to get my homework done on time and i 'm not afraid to ask for help if i need it . they 'd also tell you i am friendly to my classmates .  | i think i am the very person you can rely on . i 'll arrive to work on time and do the best i can on the job . besides i 've done volunteer work and now i 'd like the gain actual work experience . if you hire me , you 'll get someone who is always willing to learn . ",1
+"ok , tell me about yourself .  | how would your teachers describe you ?  | well , why should i hire you over the other 8 students ? ",1
+"yeah , good to see you too . have you been waiting here at the station long ? ",1
+"hey welcome to berlin , it 's great to see you again . ",2
+"are you still learning chinese ?  | it is the same with me . i can read chinese now . but i still find it difficult to speak chinese and i do n't always understand people when they speak chinese to me .  | yes , i listen to the news from china almost everyday . that helps me understand chinese , but not to speak it . ",1
+"yes . but i do n't have enough time for it . i have so many other things to do every day .  | we do n't hear chinese enough , i think . do you listen to the radio from china ? ",1
+really ? why would he do that ? ,1
+"david said he would quit his job at our school .  | his friend started a firm in london , she wanted david to help her . ",1
+"jessica , you need and come to work tomorrow .  | i know you have been working very hard , but your work does not reach the standard required . ",1
+this news comes as a shock . would you tell me the reason ? ,1
+why are you looking me up and down ?  | i know . i got dressed in the dark and i did n't realize my mistake until i got to the office . ,1
+what a strange suit you 're wearing . your jacket does n't match your trousers . ,1
+"oh ! hi diana , well actually i was thinking about taking an evening class .  | no . i want to learn a new language .  | no , i want to learn italian .  | no , i 'm just interested in the language . do you have any interest in learning a new language ? if you do we could go to evening school together .  | good idea , i 'll give her a call tonight . ",1
+"tim what are you thinking about ?  | do you want to learn a new skill ?  | so what language do you want to learn ? french ?  | do you want to work in italy one day ?  | i really want to learn french or german , but i 'm too busy with my work now . why do n't you ask susan , she told me last week that she wanted to learn chinese . ",1
+"we need a new sofa , this one is starting to sink in the middle and it looks shabby . ",1
+"yes , white it was n't a good choice of color , the next one should be darker , brown or blue maybe . ",1
+i am looking for a flat for 2 people near the university .  | i think of flat for no more than $ 100 a month is good . i prefer to live in a quiet street and i need at least 2 bedrooms .  | well . that 's a little far to walk . what about the other one ? ,1
+"good morning . what can i do for you ?  | well . there are several places available and the rent ranges from 80 to $ 150 a month . what are your requirements ?  | well , we have got 2 flats that meet your requirements . this one costs $ 85 a month , it 's 2 miles away from the university .  | the second one is 3/2 miles away from the university , but it is smaller and more expensive . it 's $ 100 a month . ",1
+"no , dorothy . i promised my mom might come right back home when i 'm off .  | alright . beer is fine , but no dancing , ok ? ",1
+"wan na grab a beer after work tony ?  | um , mommy 's good boy , are n't you ? come on , we can have some beer and then go to the dancing club . ",1
