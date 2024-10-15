@@ -8,7 +8,8 @@ Develop a system to predict the sentiment of each participant in a conversation 
 ### Stack
 
 1. Open-source pre-trained language models which need to be fine-tuned
-2. Fine-tune the model and provide a Dockerfile for deployment
-3. Display the functionality of the model through a web interface
+2. Fine-tune the model using an AWS instance
+3. Provide a Dockerfile for deployment
+4. Display the functionality of the model through a web interface
     - Users can input the text of a conversation
     - The output will be the sentiments of each participant (positive, neutral, negative)
