@@ -13,3 +13,24 @@ Develop a system to predict the sentiment of each participant in a conversation 
 4. Display the functionality of the model through a web interface
     - Users can input the text of a conversation
     - The output will be the sentiments of each participant (positive, neutral, negative)
+
+# Model Ideation
+
+**Simple Approach**
+
+- Concatenate each speaker's text
+- Train a single model that classifies the sentiment of each speaker using labels
+- Apply the model on the total concatenated version of each speaker during inference
+
+**More Involved Approach**
+
+- Generate labels for each sentence
+- Train a sentiment classification model on each of the sentences
+- Generate another model / pipeline to aggregate the sentiment of each sentence
+
+**Full-Context Approach**
+
+- Keep the generated labels for each sentence pair
+- Train an entire generation model that tags each sentence using <male>0.5</male> & <female>-0.2</female> tags
+
+We went with the simple approach, as we only are budgeting a few hours for the project.
