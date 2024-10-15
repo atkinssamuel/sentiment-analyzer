@@ -6,3 +6,5 @@ datasets
 transformers[torch]
 pandas
 ipykernel
+tensorboard
+flask
