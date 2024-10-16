@@ -5,20 +5,20 @@ import React from "react"
 
 export default function Home() {
   return (
-    <div className={`max colum-flex`} style={{ position: "absolute" }}>
-      <div
-        className={`max-width`}
-        style={{
-          width: "100%",
-        }}
-      >
+    <div
+      className={`max column-flex space-between align-center`}
+      style={{ position: "absolute" }}
+    >
+      <div className={`max-width`}>
         <Header />
       </div>
 
-      <div className={``}>
+      <div style={{ width: "60%" }}>
         <Chat />
       </div>
-      <Footer />
+      <div className={`max-width`}>
+        <Footer />
+      </div>
     </div>
   )
 }

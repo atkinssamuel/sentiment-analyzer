@@ -5,8 +5,11 @@ from transformers import (
     BertForSequenceClassification,
     BertTokenizer,
 )
+from flask_cors import CORS
+
 
 app = Flask(__name__)
+CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
 
 max_length = 200
 m_trained = BertForSequenceClassification.from_pretrained("./sentiment_model")

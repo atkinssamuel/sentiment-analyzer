@@ -8,3 +8,4 @@ pandas
 ipykernel
 tensorboard
 flask
+flask-cors

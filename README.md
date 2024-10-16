@@ -33,4 +33,8 @@ Develop a system to predict the sentiment of each participant in a conversation 
 - Keep the generated labels for each sentence pair
 - Train an entire generation model that tags each sentence using <male>0.5</male> & <female>-0.2</female> tags
 
-We went with the simple approach, as we only are budgeting a few hours for the project.
+I went with the simple approach, as I am only budgeting a few hours for the project.
+
+# Further Model Improvement Ideas
+
+An obvious thing to do would be to use a new GPT pipeline to generate more training samples. With correct prompting and personas, this could drastically increase the variance of the data and the performance of the model.
