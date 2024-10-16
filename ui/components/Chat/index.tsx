@@ -4,6 +4,7 @@ import React, { useEffect, useState } from "react"
 import ResponseEditor from "../Chatbox"
 import MainButton from "../MainButton"
 import { Sizes } from "@/types/Fonts"
+import Colorbox from "../Colorbox"
 
 type Message = {
   text: string
@@ -13,10 +14,10 @@ type Message = {
 export default function Chat() {
   const [messages, setMessages] = useState<Message[]>([])
 
-  const [maleScore, setMaleScore] = useState(null)
+  const [maleScore, setMaleScore] = useState<0 | 1 | 2>(1)
   const [maleMessage, setMaleMessage] = useState("")
 
-  const [femaleScore, setFemaleScore] = useState(null)
+  const [femaleScore, setFemaleScore] = useState<0 | 1 | 2>(1)
   const [femaleMessage, setFemaleMessage] = useState("")
 
   const [fullMaleMessage, setFullMaleMessage] = useState("")
@@ -76,11 +77,13 @@ export default function Chat() {
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ message: fullFemaleMessage }),
+      body: JSON.stringify({
+        message: fullFemaleMessage.slice(fullFemaleMessage.length - 200),
+      }),
     })
       .then((res) => res.json())
       .then((data) => {
-        console.log(data)
+        setFemaleScore(data.result)
       })
   }, [fullFemaleMessage])
 
@@ -92,10 +95,14 @@ export default function Chat() {
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ message: fullMaleMessage }),
+      body: JSON.stringify({
+        message: fullMaleMessage.slice(fullMaleMessage.length - 200),
+      }),
     })
       .then((res) => res.json())
-      .then((data) => {})
+      .then((data) => {
+        setMaleScore(data.result)
+      })
   }, [fullMaleMessage])
 
   useEffect(() => {
@@ -128,25 +135,10 @@ export default function Chat() {
       >
         <div
           className={`row-flex space-between`}
-          style={{ width: "90%", marginBottom: "2vh" }}
+          style={{ marginBottom: "2vh" }}
         >
-          <div
-            style={{
-              color: "var(--blue)",
-              fontSize: `calc(${Sizes.Paragraph} + 0.5vh)`,
-            }}
-          >
-            {maleScore == null ? 0 : maleScore} / 1
-          </div>
-
-          <div
-            style={{
-              color: "var(--pink)",
-              fontSize: `calc(${Sizes.Paragraph} + 0.5vh)`,
-            }}
-          >
-            {femaleScore == null ? 0 : femaleScore} / 1
-          </div>
+          <Colorbox zeroOneTwo={maleScore} />
+          <Colorbox zeroOneTwo={femaleScore} />
         </div>
 
         {messages.map((m, idx) => {
