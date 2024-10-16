@@ -3,8 +3,8 @@
 import React, { useEffect, useState } from "react"
 import ResponseEditor from "../Chatbox"
 import MainButton from "../MainButton"
-import { Sizes } from "@/types/Fonts"
 import Colorbox from "../Colorbox"
+import { Infer } from "@/services/Infer"
 
 type Message = {
   text: string
@@ -71,37 +71,13 @@ export default function Chat() {
   useEffect(() => {
     if (fullFemaleMessage == "") return
 
-    fetch("http://localhost:5000/", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        message: fullFemaleMessage.slice(fullFemaleMessage.length - 200),
-      }),
-    })
-      .then((res) => res.json())
-      .then((data) => {
-        setFemaleScore(data.result)
-      })
+    Infer({ message: fullFemaleMessage }).then((r) => setFemaleScore(r))
   }, [fullFemaleMessage])
 
   useEffect(() => {
     if (fullMaleMessage == "") return
 
-    fetch("http://localhost:5000/", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        message: fullMaleMessage.slice(fullMaleMessage.length - 200),
-      }),
-    })
-      .then((res) => res.json())
-      .then((data) => {
-        setMaleScore(data.result)
-      })
+    Infer({ message: fullMaleMessage }).then((r) => setMaleScore(r))
   }, [fullMaleMessage])
 
   useEffect(() => {
