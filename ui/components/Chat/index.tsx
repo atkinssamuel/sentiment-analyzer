@@ -13,7 +13,6 @@ type Message = {
 
 export default function Chat() {
   const [messages, setMessages] = useState<Message[]>([])
-
   const [maleScore, setMaleScore] = useState<0 | 1 | 2>(1)
   const [maleMessage, setMaleMessage] = useState("")
 
@@ -58,14 +57,14 @@ export default function Chat() {
       messages
         .filter((m) => m.male)
         .map((m) => m.text)
-        .join(" ")
+        .join(" | ")
     )
 
     setFullFemaleMessage(
       messages
         .filter((m) => !m.male)
         .map((m) => m.text)
-        .join(" ")
+        .join(" | ")
     )
   }, [messages])
 
@@ -149,7 +148,7 @@ export default function Chat() {
                 width: "60%",
                 paddingLeft: "20px",
                 ...borderStyles,
-                marginLeft: m.male ? 0 : "37.5%",
+                marginLeft: m.male ? 0 : "40%",
                 color: m.male ? "var(--blue)" : "var(--pink)",
                 wordWrap: "break-word", // This will ensure long words wrap properly
                 whiteSpace: "normal", // Ensures the text will break into multiple lines

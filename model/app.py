@@ -1,32 +1,18 @@
 import torch
 
 from flask import Flask, request
-from transformers import (
-    BertForSequenceClassification,
-    BertTokenizer,
-)
 from flask_cors import CORS
+from transformers import pipeline
 
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
 
-max_length = 200
-m_trained = BertForSequenceClassification.from_pretrained("./sentiment_model")
-t_trained = BertTokenizer.from_pretrained("./sentiment_model")
+sentiment_pipeline = pipeline("sentiment-analysis")
 
 
 def infer(joint_sentences: str):
-    with torch.no_grad():
-        inputs = t_trained(
-            joint_sentences,
-            padding=True,
-            truncation=True,
-            return_tensors="pt",
-            max_length=max_length,
-        )
-        outputs = m_trained(**inputs)
-    return outputs.logits
+    return sentiment_pipeline(joint_sentences)
 
 
 @app.route("/", methods=["POST"])
@@ -37,8 +23,12 @@ def result():
         return {"error": "No message provided"}, 400
 
     try:
-        result = infer(data["message"])
-        return {"result": result.tolist()[0]}, 200
+        result = infer(data["message"])[0]
+
+        if result["score"] < 0.9:
+            return {"result": 1}, 200
+        return {"result": (result["label"] == "POSITIVE") * 2}, 200
 
     except Exception as e:
+        print(e)
         return {"error": str(e)}, 500
